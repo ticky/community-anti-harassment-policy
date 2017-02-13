@@ -1,6 +1,6 @@
-## Code of Conduct
+# Code of Conduct
 
-### Shorter version
+## Shorter version
 
 [COMMUNITY NAME] is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
 
@@ -8,7 +8,7 @@ This code of conduct applies to all [COMMUNITY NAME] spaces, both online and off
 
 Some [COMMUNITY NAME] spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-### Longer version
+## Longer version
 
 [COMMUNITY NAME] is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
@@ -42,7 +42,7 @@ Harassment includes:
 * Communicating in a ‘tone’ you don’t find congenial
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-#### Reporting
+### Reporting
 
 If you are being harassed by a member of [COMMUNITY NAME], notice that someone else is being harassed, or have any other concerns, please contact the [RESPONSE TEAM] at [email address or other contact point]. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
@@ -52,8 +52,12 @@ In order to protect volunteers from abuse and burnout, we reserve the right to r
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of [COMMUNITY NAME] members or the general public. We will not name harassment victims without their affirmative consent.
 
-#### Consequences
+### Consequences
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, [RESPONSE TEAM] may take any action they deem appropriate, up to and including expulsion from all [COMMUNITY NAME] spaces and identification of the participant as a harasser to other [COMMUNITY NAME] members or the general public.
+
+## Attribution
+
+This anti-harassment policy is based on [the example policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment) from the Geek Feminism wiki, created by the Geek Feminism community.
